@@ -8,7 +8,7 @@
         <div class="row g-0 g-xl-5 g-xxl-8">
           <div class="col-xl-8">
             <!--begin::Row-->
-            <div class="row g-0 g-xl-6 g-xxl-12 mb-6">
+            <div class="row g-6 mb-6">
               <div v-for="i in 10" :key="i" class="col-xl-4">
                 <!--begin::Stats Widget 9-->
                 <div class="card mb-0">
